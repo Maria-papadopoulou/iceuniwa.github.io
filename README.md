@@ -1,2 +1,2 @@
 # iceuniwa.github.io
-Community run project for ICE uniwa
+Community project for ICE uniwa
