@@ -1050,11 +1050,7 @@ a {
 .cid-sTbEbVSfry {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/background3.jpg");
-}
-.cid-sTbEbVSfry .mbr-overlay {
-  background: #fafafa;
-  opacity: 0.6;
+  background-color: #bed3f9;
 }
 .cid-sTbEbVSfry img,
 .cid-sTbEbVSfry .item-img {
@@ -1115,11 +1111,7 @@ a {
 .cid-sTi2vMT00K {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/background7.jpg");
-}
-.cid-sTi2vMT00K .mbr-overlay {
-  background: #fafafa;
-  opacity: 0.6;
+  background-color: #bed3f9;
 }
 .cid-sTi2vMT00K img,
 .cid-sTi2vMT00K .item-img {
@@ -1180,7 +1172,7 @@ a {
 .cid-sTh5d6scBO {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-color: #bed3f9;
 }
 .cid-sTh5d6scBO .number-wrap {
   color: #555555;
@@ -2429,7 +2421,7 @@ a {
 .cid-sTeCP91gsM {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #6592e6;
+  background-color: #4479d9;
 }
 .cid-sTeRBq7uLN {
   padding-top: 5rem;
@@ -2857,7 +2849,9 @@ a {
   }
 }
 .cid-sTF0jku7ej {
-  background-image: url("../../../assets/images/background3.jpg");
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #4479d9;
 }
 .cid-sTF484isnr {
   z-index: 1000;
@@ -3218,6 +3212,38 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-sVvZOMAKQv {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sVvZOMAKQv .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sVvZOMAKQv .row {
+  flex-direction: row-reverse;
+}
+.cid-sVvZOMAKQv img {
+  width: 100%;
+}
+.cid-tfkZyLMMF5 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-tfkZyLMMF5 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tfkZyLMMF5 .row {
+  flex-direction: row-reverse;
+}
+.cid-tfkZyLMMF5 img {
+  width: 100%;
 }
 .cid-sTF0Avwzxn {
   background-image: url("../../../assets/images/background6.jpg");
